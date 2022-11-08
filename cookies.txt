@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+aps.hearstnp.com	TRUE	/	FALSE	1999999999	ARRAffinity	62712b4a081b6c408f2f261cda83677b080ac0bbf15e1e85ebb0d2a028d896f5
+aps.hearstnp.com	TRUE	/	FALSE	1999999999	ARRAffinitySameSite	62712b4a081b6c408f2f261cda83677b080ac0bbf15e1e85ebb0d2a028d896f5
+mis.hearstnp.com	TRUE	/	FALSE	1999999999	ARRAffinity	3f3800de00ddbc2565b0e3a2c1c29a7e5b4fee5d12d810a804025f6ea4ec1240
+aps.hearstnp.com	TRUE	/	FALSE	1999999999	location_data	{"is_eu":false,"country_code":"IN","postal_code":"1"}
+aps.hearstnp.com	TRUE	/	FALSE	1999999999	SameSite	Strict
+l.hdnux.com	TRUE	/	FALSE	1999999999	location_data	{"is_eu":false,"country_code":"IN","postal_code":"1"}
+l.hdnux.com	TRUE	/	FALSE	1999999999	SameSite	Strict
+
